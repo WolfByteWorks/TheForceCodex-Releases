@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The Force Codex</title>
+    <link>https://raw.githubusercontent.com/WolfByteWorks/TheForceCodex-Releases/main/appcast.xml</link>
+    <description>The Force Codex for Mac updates</description>
+    <language>en</language>
+    <item>
+      <title>Version 01.01.00 (6)</title>
+      <pubDate>Sat, 14 Nov 2026 19:28:38 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>01.01.00</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First Mac release with automatic updates</li><li>Comics tab with 2,516 comics and covers</li><li>Notes, first edition and paperback or hardback on each book</li><li>Lightsaber series dividers, live starfield and saber glows</li><li>iCloud sync with your iPhone and iPad</li></ul>]]></description>
+      <enclosure url="https://github.com/WolfByteWorks/TheForceCodex-Releases/releases/download/v01.01.00-6/TheForceCodex_v01.01.00-6.zip" length="7931214" type="application/octet-stream" sparkle:edSignature="OGivM3aQ/W+DQd4kRvFk/Z2J/awAez2h+wVJgMou/BOlUELBPUMysUMgKWblsLSl38zmovfZq8YPz/C8erb0CQ=="/>
+    </item>
+  </channel>
+</rss>
