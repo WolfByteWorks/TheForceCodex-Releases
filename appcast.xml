@@ -6,6 +6,15 @@
     <description>The Force Codex for Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 01.01.04 (8)</title>
+      <pubDate>Sat, 14 Nov 2026 19:43:50 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>01.01.04</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Jedi and Sith titles glow, flash and flicker</li></ul>]]></description>
+      <enclosure url="https://github.com/WolfByteWorks/TheForceCodex-Releases/releases/download/v01.01.04-8/TheForceCodex_v01.01.04-8.zip" length="7933159" type="application/octet-stream" sparkle:edSignature="JgZyfUobNd8NEYyRK+0aU+YFtqKnAMMavDO9XUfbwLJ7j8AiOgmTuMhnUzvDJsgI0kkJdDQkdNgoNO3o8iutAw=="/>
+    </item>
+    <item>
       <title>Version 01.01.02 (7)</title>
       <pubDate>Sat, 14 Nov 2026 19:34:47 GMT</pubDate>
       <sparkle:version>7</sparkle:version>
