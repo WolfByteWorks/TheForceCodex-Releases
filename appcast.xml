@@ -6,6 +6,15 @@
     <description>The Force Codex for Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 01.01.12 (12)</title>
+      <pubDate>Sat, 14 Nov 2026 20:41:53 GMT</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>01.01.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Numbered series parts such as The High Republic Phase I, II and III stay together in number order.</li></ul>]]></description>
+      <enclosure url="https://github.com/WolfByteWorks/TheForceCodex-Releases/releases/download/v01.01.12-12/TheForceCodex_v01.01.12-12.zip" length="7955480" type="application/octet-stream" sparkle:edSignature="Jit4HemfM0NjyQcpXVeYPfRGszIVtc15Z56Q6Xxk9uIeFuBNqrnVgm8SJMGi9W8whLg88vn4KWEttF6AJNMvCQ=="/>
+    </item>
+    <item>
       <title>Version 01.01.10 (11)</title>
       <pubDate>Sat, 14 Nov 2026 20:13:38 GMT</pubDate>
       <sparkle:version>11</sparkle:version>
