@@ -6,6 +6,15 @@
     <description>The Force Codex for Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 01.01.08 (10)</title>
+      <pubDate>Sat, 14 Nov 2026 19:57:14 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>01.01.08</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Books and comics stay grouped by series and now sort in story order (BBY/ABY) inside each series, with a timeline badge on every row.</li></ul>]]></description>
+      <enclosure url="https://github.com/WolfByteWorks/TheForceCodex-Releases/releases/download/v01.01.08-10/TheForceCodex_v01.01.08-10.zip" length="7943996" type="application/octet-stream" sparkle:edSignature="kclZHWpL41n0+gB/LJiuL+/HbzNU4nV0anpvNBm3LEAYDtuEH6OQA0qESM/DIyGAsZlYE9jImFneeXvYt2VBBQ=="/>
+    </item>
+    <item>
       <title>Version 01.01.06 (9)</title>
       <pubDate>Sat, 14 Nov 2026 19:50:31 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
