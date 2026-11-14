@@ -6,6 +6,15 @@
     <description>The Force Codex for Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 01.01.02 (7)</title>
+      <pubDate>Sat, 14 Nov 2026 19:34:47 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>01.01.02</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Settings is now a full-size Mac window with the complete About card</li></ul>]]></description>
+      <enclosure url="https://github.com/WolfByteWorks/TheForceCodex-Releases/releases/download/v01.01.02-7/TheForceCodex_v01.01.02-7.zip" length="7932217" type="application/octet-stream" sparkle:edSignature="ekTAyWtYner0KT3bCpZOyr1caMF+9hupMN478GlPGoN2T4Buyz/l4Hb/7YUDzceN9w1zMletPGB6Aj4L06p4DQ=="/>
+    </item>
+    <item>
       <title>Version 01.01.00 (6)</title>
       <pubDate>Sat, 14 Nov 2026 19:28:38 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
