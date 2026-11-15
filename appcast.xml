@@ -6,6 +6,15 @@
     <description>The Force Codex for Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 01.03.00 (14)</title>
+      <pubDate>Sun, 15 Nov 2026 02:13:08 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>01.03.00</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Squadrons: share your books and comics with friends and family. Alerts for new titles, release days and price drops. Ratings, Reading now, Stats and Lent out.</li></ul>]]></description>
+      <enclosure url="https://github.com/WolfByteWorks/TheForceCodex-Releases/releases/download/v01.03.00-14/TheForceCodex_v01.03.00-14.zip" length="8187637" type="application/octet-stream" sparkle:edSignature="66hQ9vdq/48kM+SCKVUL/6Jf2QZ7kqzAQlkq5GrKZzFqVWuZcibxzMxCE1SchbLoidrk3f9SLywQHVDn/Fy6Dg=="/>
+    </item>
+    <item>
       <title>Version 01.02.00 (13)</title>
       <pubDate>Sun, 15 Nov 2026 01:58:19 GMT</pubDate>
       <sparkle:version>13</sparkle:version>
