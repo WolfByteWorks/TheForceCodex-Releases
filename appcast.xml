@@ -6,6 +6,15 @@
     <description>The Force Codex for Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 01.05.00 (17)</title>
+      <pubDate>Sun, 15 Nov 2026 03:15:26 GMT</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>01.05.00</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Squadrons, alerts for new titles, release days and price drops, ratings, Reading now, Stats and Lent out. iPhone and iPad get a Home Screen widget.</li></ul>]]></description>
+      <enclosure url="https://github.com/WolfByteWorks/TheForceCodex-Releases/releases/download/v01.05.00-17/TheForceCodex_v01.05.00-17.zip" length="8217248" type="application/octet-stream" sparkle:edSignature="Z96xGvKqq1+Fi5ZhM4JqmxAZYI50xq3uZmqMlSbUFUmKvuiqHOYYwOWYK0e+BrPso5TZtHJtZFsFyUNn88swCg=="/>
+    </item>
+    <item>
       <title>Version 01.04.02 (16)</title>
       <pubDate>Sun, 15 Nov 2026 02:33:38 GMT</pubDate>
       <sparkle:version>16</sparkle:version>
