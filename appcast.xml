@@ -6,6 +6,15 @@
     <description>The Force Codex for Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 01.06.00 (21)</title>
+      <pubDate>Mon, 16 Nov 2026 18:54:32 GMT</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>01.06.00</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Edit a book&#x27;s story date from its page (pencil on Story timeline). On the Mac, Edit order lets you drag a book to a new place on the timeline; it becomes Between the books above and below it. Also includes the 01.05.04 cleanup and security fixes.</li></ul>]]></description>
+      <enclosure url="https://github.com/WolfByteWorks/TheForceCodex-Releases/releases/download/v01.06.00-21/TheForceCodex_v01.06.00-21.zip" length="8259541" type="application/octet-stream" sparkle:edSignature="o1PTS6F+GtgBgcK98uf1ARz6EwcB+1qOi3/fXSRN8dnJWixqyP0B7JNHo2xoQbBsD0iqbqcCHhFOrgmiPEmXAw=="/>
+    </item>
+    <item>
       <title>Version 01.05.02 (18)</title>
       <pubDate>Mon, 16 Nov 2026 17:31:23 GMT</pubDate>
       <sparkle:version>18</sparkle:version>
