@@ -1,0 +1,2245 @@
+{
+"version": "951b48e8d0b5",
+"jokes": [
+{
+"id": "00506146c8ca",
+"text": "Why didn't the stormtrooper become a baker? He kept missing the bowl."
+},
+{
+"id": "00c43cfd5255",
+"text": "Where do Jedi go to get their lightsabers fixed? The Crystal Clinic."
+},
+{
+"id": "00e720247575",
+"text": "Why does Mace Windu have a purple lightsaber? Because he's one of a kind and he knows it."
+},
+{
+"id": "00fe9025584b",
+"text": "Why is the Millennium Falcon always dirty? It has been through a lot of asteroids."
+},
+{
+"id": "019c20fc19bd",
+"text": "What do you call a Jedi chef? A Jedi Master-Chef."
+},
+{
+"id": "0203bd5f4002",
+"text": "How does Obi-Wan stay in shape? He does Jedi jumping jacks on the high ground."
+},
+{
+"id": "020b9cb6c250",
+"text": "Why did Padmé wear so many outfits? She was a queen of the wardrobe changes."
+},
+{
+"id": "022f5285e161",
+"text": "What did the Jedi student say to his teacher? \"May the Force be with you on this test.\""
+},
+{
+"id": "0285e62fead5",
+"text": "What did Padmé say to the slow elevator? \"So this is how liberty dies, with thunderous waiting.\""
+},
+{
+"id": "03bbd12321ac",
+"text": "Why does Yoda talk backwards? Because his sentences go to the swamp first."
+},
+{
+"id": "0528f99a8f95",
+"text": "Why did C-3PO need a lawyer? He kept forgetting his droid rights."
+},
+{
+"id": "053193646c90",
+"text": "Why do Jedi love the beach? So much high-ground sandcastle building."
+},
+{
+"id": "054abeccb1c0",
+"text": "Where does Princess Leia get her hair cut? At the Royal Bun Salon."
+},
+{
+"id": "059d7b80c03c",
+"text": "What do you call a really good lightsaber fight? A light show."
+},
+{
+"id": "05cb1caad921",
+"text": "What's Grogu's favorite cereal? Frosted Frog Flakes."
+},
+{
+"id": "06300f520240",
+"text": "What does Luke call his X-wing on a rainy day? A Wet-wing."
+},
+{
+"id": "06429f366bc6",
+"text": "Why can't Darth Vader play hide and seek? Everyone can hear him breathing."
+},
+{
+"id": "065fbeaabeb0",
+"text": "Why did BB-8 go to the bowling alley? He wanted to roll with his friends."
+},
+{
+"id": "06b6d5e1486e",
+"text": "Why did Luke join the band? He was great on the light-saber-xophone."
+},
+{
+"id": "06c12fc237b9",
+"text": "Why did the clone get into trouble at school? He was copying his brother's homework. All of them."
+},
+{
+"id": "0706941852e1",
+"text": "What do you call a Death Star that tells jokes? A Pun Star."
+},
+{
+"id": "07951e91c595",
+"text": "What's an Ewok's favorite type of music? Drum and Endor bass."
+},
+{
+"id": "08539c79f87a",
+"text": "Why do Jedi always pack an extra pair of socks? In case they get a hole in one."
+},
+{
+"id": "0889d5a04fee",
+"text": "What does Lando say to the fancy cape store? \"Hello, what have we here?\""
+},
+{
+"id": "091b68e23ddf",
+"text": "Why did Mace Windu get a job at a hotel? He's great at saying \"This party's over.\""
+},
+{
+"id": "0a2e55fdac55",
+"text": "What is Yoda's favorite type of pasta? Yoda-tini."
+},
+{
+"id": "0a4fe05b9943",
+"text": "What do you call Chewbacca with chocolate stuck in his fur? A chocolate chip Wookiee."
+},
+{
+"id": "0a6372b2e697",
+"text": "What do you call Chewbacca when he sneezes? A Wookiee achoo."
+},
+{
+"id": "0a92808c37d4",
+"text": "What does a Jedi call a long nap? A Force Sleep."
+},
+{
+"id": "0ae49af59f8a",
+"text": "Why did Yoda go to the pet store? To find a pet that was small, green and wise."
+},
+{
+"id": "0c78fef78350",
+"text": "Why did the Jedi bring a broom to class? He heard it was time to sweep the Sith off their feet."
+},
+{
+"id": "0ce63875f2d0",
+"text": "What do you call a Jawa who sells cars? A used-droid salesman."
+},
+{
+"id": "0d19f36332b1",
+"text": "Why did Luke take up farming? He was a moisture farmer before it was cool."
+},
+{
+"id": "0db81d354630",
+"text": "What's the Death Star's favorite exercise? Planet crunches."
+},
+{
+"id": "0dfc2d3989a1",
+"text": "What does Yoda say when he burps? \"Excuse me, you must.\""
+},
+{
+"id": "0e2f85c1c0d6",
+"text": "How do you stop an AT-AT? Tie its shoelaces together."
+},
+{
+"id": "0e34f3505c92",
+"text": "What do you call a Jedi in a snowstorm? Obi-Wan Kenobi-brrr."
+},
+{
+"id": "0ed75520a7b3",
+"text": "What does Luke Skywalker drink? Blue milk. Or green milk if he's feeling adventurous."
+},
+{
+"id": "0f38275848c0",
+"text": "What does a bantha eat for dessert? Bantha-split."
+},
+{
+"id": "0f65e0b3469f",
+"text": "Why do Star Wars fans love bowling? Because the Empire Strikes Back."
+},
+{
+"id": "10059735e5ff",
+"text": "Why did the Emperor bring a pencil to the battle? In case he needed to draw on the power of the dark side."
+},
+{
+"id": "111c2c0d7992",
+"text": "Why does Tatooine have such good sunsets? It has two of them."
+},
+{
+"id": "1120df41e254",
+"text": "Why did the mudhorn go to the spa? It wanted a mud bath."
+},
+{
+"id": "1160d3fa05de",
+"text": "What did one Death Star say to the other? \"Nice to see you're fully operational.\""
+},
+{
+"id": "11d6931d5c67",
+"text": "Why does Grogu ride in a floating pram? Because walking is for grown-up Jedi."
+},
+{
+"id": "1239581f65a5",
+"text": "What is a clone trooper's favorite game? Copycat."
+},
+{
+"id": "128eb1482b92",
+"text": "What do Jedi say when they want a bigger pizza? \"May the Forks be with you.\""
+},
+{
+"id": "12adc881d378",
+"text": "How does Darth Vader like his toast? On the dark side."
+},
+{
+"id": "12f90648abd1",
+"text": "What did Yoda say to the student who didn't do homework? \"Do or do not. There is no 'my dog ate it.'\""
+},
+{
+"id": "132e072d4459",
+"text": "What is a Sith's favorite candy? Darth chocolate."
+},
+{
+"id": "13f63a4c8947",
+"text": "What's Kylo Ren's favorite dessert? Anything he can melt with a tantrum, like ice cream."
+},
+{
+"id": "143b26b83d54",
+"text": "Why is Yoda such a good gardener? He has a green thumb. Two, actually, and a few fingers."
+},
+{
+"id": "15760d3d681b",
+"text": "What did Chewbacca use to cool down? A Wookiee fan."
+},
+{
+"id": "1591f8767057",
+"text": "What does Han Solo order at the ice cream shop? A Kessel Run sundae in under twelve parsecs."
+},
+{
+"id": "15dde4b263f7",
+"text": "Why did Han Solo become a chef? He was great at making things in less than twelve parsecs."
+},
+{
+"id": "16edbf367649",
+"text": "What did Ahsoka say when she got a new haircut? Nothing. It's the same head-tails."
+},
+{
+"id": "175819cfcc5b",
+"text": "What is Darth Vader's favorite fruit? Dark-berries."
+},
+{
+"id": "184bf3bf9b82",
+"text": "What did the droid say at Thanksgiving? \"Please pass the gravy oil.\""
+},
+{
+"id": "18a8bccd6eaa",
+"text": "What did the mynock say to the Millennium Falcon? \"Mmm, wiring.\""
+},
+{
+"id": "18d79fb27ba5",
+"text": "What do you call a Star Wars movie about sheep? The Phantom Ewe."
+},
+{
+"id": "1a6c42a56515",
+"text": "What did the waiter say to the Jedi? \"Your table is ready, Master.\""
+},
+{
+"id": "1a804fe4da4a",
+"text": "What do you call Han Solo on a camping trip? A happy camper. He's used to the Hoth weather."
+},
+{
+"id": "1a83cb1a6193",
+"text": "Why is Grogu so good at hide and seek? He fits in a soup bowl."
+},
+{
+"id": "1b088b0bcd97",
+"text": "How does Yoda sign his letters? \"Sincerely, Yoda you are reading.\""
+},
+{
+"id": "1b4b97b63860",
+"text": "Why did C-3PO cross the road? To tell everyone the odds of making it."
+},
+{
+"id": "1be1093ed4fc",
+"text": "Why did the Jedi take his lightsaber to school? For show and tell."
+},
+{
+"id": "1c97a119a570",
+"text": "What did Lando say to the cookie jar? \"This deal is getting worse all the time.\""
+},
+{
+"id": "1c988fe991d1",
+"text": "How do clones pick a leader? They take a vote. It's always a tie."
+},
+{
+"id": "1ca48a5670f9",
+"text": "Why did the Jedi bring string to the meeting? To keep everyone tied to the Force."
+},
+{
+"id": "1d399fb00cff",
+"text": "What did the protocol droid say to the waiter? \"I'll have the oil of the day, please.\""
+},
+{
+"id": "1d51063a1831",
+"text": "Why did BB-8 fail his driving test? He kept rolling through stop signs."
+},
+{
+"id": "1d6769fd7c8b",
+"text": "Why did the stormtrooper get a job at the bowling alley? Everything he throws ends up in the gutter."
+},
+{
+"id": "1d8acb6d8bd0",
+"text": "What's a Jedi's favorite class? Force-ics."
+},
+{
+"id": "1db8b28b385f",
+"text": "What is the Emperor's favorite game? Simon Says. Well, Sidious Says."
+},
+{
+"id": "1df32aaeaf86",
+"text": "Why are stormtroopers bad at hide and seek? They never hit their mark."
+},
+{
+"id": "1eb9651976e3",
+"text": "What is Darth Vader's favorite type of music? Heavy breathing metal."
+},
+{
+"id": "1f35a7a5ddcd",
+"text": "Why does Han Solo always shoot first? He likes to get things done ahead of schedule."
+},
+{
+"id": "1f3fb95726c3",
+"text": "Why did the young Jedi fail his driving test? He kept using the Force instead of the brakes."
+},
+{
+"id": "204818ff00a6",
+"text": "Why do Jawas wear hoods? To keep the sand out of their snacks."
+},
+{
+"id": "208237c91400",
+"text": "What do you call a Star Wars movie about cats? Attack of the Clawns."
+},
+{
+"id": "21317fc17587",
+"text": "What did the porg say to Chewbacca? \"Please don't eat my friend.\""
+},
+{
+"id": "21470b11f092",
+"text": "Why did the Jedi take a nap? He was feeling Force-tired."
+},
+{
+"id": "22aaec35b182",
+"text": "What do you call a Jedi who loves pancakes? Obi-Wan Ka-syrup-i."
+},
+{
+"id": "22d4e0e07d4f",
+"text": "How does Darth Vader get his kids to finish dinner? He uses the Force-feed."
+},
+{
+"id": "237e5868dad0",
+"text": "What does Yoda call a sandwich? \"Bread, meat, cheese, bread. Delicious, it is.\""
+},
+{
+"id": "23886d10562c",
+"text": "What did the space sandwich say? \"May the forks be with you.\""
+},
+{
+"id": "23937683aede",
+"text": "What do you call a Mandalorian who plays the violin? A Mandolin-orian."
+},
+{
+"id": "24ace135324e",
+"text": "What is Darth Vader's favorite kind of tree? A Sith-amore."
+},
+{
+"id": "24ed3ba2ac70",
+"text": "What's a stormtrooper's favorite game? Missed Connections."
+},
+{
+"id": "24fdac056ac5",
+"text": "Why did the Mandalorian never take off his helmet at dinner? He was saving his face for dessert."
+},
+{
+"id": "274ca984be10",
+"text": "What do Sith Lords put on their pancakes? Darth syrup."
+},
+{
+"id": "2896c0c2972d",
+"text": "What do you call a Sarlacc that just ate? A Sarlacc-full."
+},
+{
+"id": "28b283a7d1ae",
+"text": "What did the X-wing say to the TIE fighter? \"You've got a lot of nerve.\""
+},
+{
+"id": "28b82edf8dfa",
+"text": "Why is Rey so good at scavenging? She can find something useful in any junk drawer."
+},
+{
+"id": "28d976a137fe",
+"text": "What did Darth Vader say to the dentist? \"The floss is strong with this one.\""
+},
+{
+"id": "28f83b58b3c2",
+"text": "What's a Jedi's favorite type of math? Force-mulas."
+},
+{
+"id": "28f982ef2d9b",
+"text": "What do you call R2-D2 when he's sad? R2-Blue."
+},
+{
+"id": "29169ccd1e97",
+"text": "What did the Rebel say to the Empire? \"You haven't seen the last of us. Mostly because we're really good at hiding.\""
+},
+{
+"id": "293c9d943cfe",
+"text": "Why did Luke go to Dagobah? For the swamp spa treatment."
+},
+{
+"id": "298569ff5035",
+"text": "What did Rey say to the leftover pizza? \"I've been waiting for someone to come back for me.\""
+},
+{
+"id": "29d7383e0688",
+"text": "What do you call Grogu after a big meal? A full little womp rat."
+},
+{
+"id": "2a0de20ebd39",
+"text": "What's a horse's favorite Star Wars character? Han Colo."
+},
+{
+"id": "2a78f4cf64d9",
+"text": "What do you call a lightsaber that tells jokes? Light-hearted."
+},
+{
+"id": "2ab0e4391094",
+"text": "What's the Mos Eisley Cantina's best seller? Blue milk shakes."
+},
+{
+"id": "2b47fb42c5fb",
+"text": "What do you call a group of porgs? A porg-ade."
+},
+{
+"id": "2b9c36cb2c26",
+"text": "What did the Jedi say at the bakery? \"These are not the donuts you're looking for. Those are.\""
+},
+{
+"id": "2bd563ac28c6",
+"text": "Why was Yoda always picked first for the team? Small he is, but strong with the Force, he is."
+},
+{
+"id": "2daaa58e2570",
+"text": "What did the Ewok say to the stormtrooper? \"Watch out for that log!\""
+},
+{
+"id": "2e1f990432a7",
+"text": "What do you call it when a Wookiee finishes a race first? A Chewbacca-win."
+},
+{
+"id": "2f0fd983b0d7",
+"text": "What did C-3PO say to R2-D2 on a long trip? \"Are we there yet? The odds are not good.\""
+},
+{
+"id": "2f8fc263bdb9",
+"text": "What is Darth Vader's favorite holiday? Vader's Day."
+},
+{
+"id": "2fb21b33b714",
+"text": "What do Rebels eat at a picnic? Rebel-tine sandwiches."
+},
+{
+"id": "2fe2ccb7eb66",
+"text": "What does a stormtrooper eat for breakfast? Imperial waffles."
+},
+{
+"id": "3042b8aa9847",
+"text": "Why did the stormtrooper bring a map to the Death Star? He kept getting lost in the hallways."
+},
+{
+"id": "306dded687d0",
+"text": "Why did the Rebels hide on Yavin 4? For the jungle view."
+},
+{
+"id": "3103ffe386f4",
+"text": "What is Grogu's favorite toy? The little silver knob from the Razor Crest."
+},
+{
+"id": "31195d806096",
+"text": "Why did the stormtrooper fail archery class? He kept aiming for the stars."
+},
+{
+"id": "3139fcf0acd5",
+"text": "Why did the Jedi give his lightsaber a name? Because it was one of a kind."
+},
+{
+"id": "33dd7d4dbd5c",
+"text": "What did the TIE fighter wear to the wedding? A bow TIE."
+},
+{
+"id": "34b4ca221f48",
+"text": "What did C-3PO say when he got a new paint job? \"I'm feeling golden.\""
+},
+{
+"id": "3565b771f91c",
+"text": "What's a Jawa's favorite game? Hide and squeak."
+},
+{
+"id": "36343726fac1",
+"text": "How do Ewoks talk to each other? With Ewokie-talkies."
+},
+{
+"id": "36bc87c3663b",
+"text": "What do you call a Jedi who has just woken up? A Jedi Knight-cap."
+},
+{
+"id": "36fddca1340f",
+"text": "What does C-3PO say when he's surprised? \"Oh my! Goodness gracious!\""
+},
+{
+"id": "3710b5fabf4b",
+"text": "What did Admiral Ackbar say about the free cheese? \"It's a mouse trap!\""
+},
+{
+"id": "38409732f406",
+"text": "What do you call R2-D2 in a snowstorm? R2-Brrrr-2."
+},
+{
+"id": "38db5106813e",
+"text": "What did Yoda say to the tired Padawan? \"Nap, you must. Wake up, you will.\""
+},
+{
+"id": "392086b18a3e",
+"text": "Why did Luke turn down the snack? He had a bad feeling about the expiration date."
+},
+{
+"id": "3a41fbc3bf60",
+"text": "What did the X-wing say to the runway? \"I'll be landing in a few parsecs.\""
+},
+{
+"id": "3ae1fee80c6f",
+"text": "What is Obi-Wan's favorite greeting? \"Hello there!\""
+},
+{
+"id": "3b50eaeb52a0",
+"text": "Why did the lightsaber go to therapy? It had a lot of pent-up energy."
+},
+{
+"id": "3ba1d1989026",
+"text": "What do Gungans put on their toast? Jar Jar jam."
+},
+{
+"id": "3c585e541152",
+"text": "What did Obi-Wan say when he walked into the bakery? \"Hello there! Your bread is the general Kenobi-scuit.\""
+},
+{
+"id": "3cbf040b908f",
+"text": "Which Star Wars character works at a restaurant? Darth Waiter."
+},
+{
+"id": "3cdd14984ba5",
+"text": "Why are Jedi great at bowling? They always use the Force to pick up the spare."
+},
+{
+"id": "3d38341cf59f",
+"text": "Why is R2-D2 so good at dancing? He has all the right beeps."
+},
+{
+"id": "3dedc2db8f8a",
+"text": "What did one clone say to the other? \"You look familiar.\""
+},
+{
+"id": "3e10cf3e228b",
+"text": "What do you call a Jedi in a hurry? Obi-Wan Kenobi-zoom."
+},
+{
+"id": "3e5034b90155",
+"text": "What do stormtroopers use to keep their armor clean? Storm-trooper wipes."
+},
+{
+"id": "3ec92315d695",
+"text": "Why did the stormtrooper go to school? To get better aim."
+},
+{
+"id": "3ef059246ef1",
+"text": "What does Grand Moff Tarkin eat for breakfast? Tarkin bacon."
+},
+{
+"id": "401f2da3be0c",
+"text": "Why is Count Dooku so good at chess? He's had a lot of practice making counter moves."
+},
+{
+"id": "40eaed879b6a",
+"text": "Why did C-3PO go to school? To brush up on his protocol."
+},
+{
+"id": "41398131b9a6",
+"text": "What did Obi-Wan say to the lost hiker? \"These are not the trails you're looking for.\""
+},
+{
+"id": "4170e2734ed5",
+"text": "What do Jedi use to open PDF files? Adobe Wan Kenobi."
+},
+{
+"id": "418ee1cbd406",
+"text": "Why is General Grievous so good at juggling? He has four hands and a very bad cough."
+},
+{
+"id": "428b46bc2fdc",
+"text": "What does Kylo Ren do when he loses at video games? He takes it out on the console."
+},
+{
+"id": "4393663b54d9",
+"text": "How do Jedi win arguments? They use the Force of reason."
+},
+{
+"id": "449a2318c9ea",
+"text": "What did the Jedi say when he got the last cookie? \"The Force is strong with this one.\""
+},
+{
+"id": "45a3ff9580c6",
+"text": "What does Grogu do when he's bored? He uses the Force to steal snacks."
+},
+{
+"id": "46498d2e3ebe",
+"text": "Why doesn't Han Solo enjoy his steak? It's Chewie."
+},
+{
+"id": "4676b5d6558c",
+"text": "What did the Rebel pilot say at the end of the trench run? \"Woo-hoo! That was a one in a million shot.\""
+},
+{
+"id": "47051380030a",
+"text": "What's BB-8's favorite sport? Bowling."
+},
+{
+"id": "47f01bf6bcb6",
+"text": "Why is Coruscant so busy? Everyone's in a hurry to get to the Senate."
+},
+{
+"id": "489ed9528c80",
+"text": "What's a mynock's favorite snack? Power cables."
+},
+{
+"id": "48a053c48eba",
+"text": "What did Yoda say when he saw a snail? \"Fast, you are not. Admire your patience, I do.\""
+},
+{
+"id": "492b986a57af",
+"text": "What do you call a fish in Star Wars? Admiral Ackbar. Wait, he is one."
+},
+{
+"id": "494eeeb2e999",
+"text": "What is Wedge Antilles' favorite snack? Cheese wedges."
+},
+{
+"id": "497e9871cdab",
+"text": "Why doesn't Darth Vader like math class? Too many problems with his Sith-agonometry."
+},
+{
+"id": "499b335b4bbb",
+"text": "What is the Empire's favorite kind of school? An Academy. Imperial, of course."
+},
+{
+"id": "49a1549dd5ae",
+"text": "What is Poe Dameron's favorite breakfast? French toast. He loves anything that's flipped."
+},
+{
+"id": "4a6581b5ce4e",
+"text": "What do you call a Star Wars movie about tired Jedi? The Force Asleep."
+},
+{
+"id": "4a862ef8878f",
+"text": "Why did Chewbacca start a band? He's great at roaring the vocals."
+},
+{
+"id": "4a9733e3dcdc",
+"text": "What does Darth Vader put on his ice cream? Dark chocolate sprinkles."
+},
+{
+"id": "4ae6038a3a02",
+"text": "What is a Jedi's favorite candy? Light-saber gummies."
+},
+{
+"id": "4b226f4fc23c",
+"text": "Why did Chewbacca go to the barber? He was having a bad fur day."
+},
+{
+"id": "4b4bbb065c4d",
+"text": "How does Darth Vader drink his juice? Through a very long straw."
+},
+{
+"id": "4c53640022cc",
+"text": "What do you call a Jedi who is really good at golf? A Force-some player."
+},
+{
+"id": "4d3aad56ae60",
+"text": "Why is Poe the best pilot? He always knows how to take things for a spin."
+},
+{
+"id": "4e2dce6c459d",
+"text": "What do pod racers eat? Pod-ato chips."
+},
+{
+"id": "4ed496559716",
+"text": "What do Ewoks drink? Ewok-ade."
+},
+{
+"id": "4eec1dae6173",
+"text": "What do Sith Lords put on their burgers? Darth mustard."
+},
+{
+"id": "4f966f95bba8",
+"text": "Why did the student bring a lightsaber to school? To cut down on homework."
+},
+{
+"id": "4ff9be5c4cbb",
+"text": "What does Darth Vader say when he answers the phone? \"Luke, I am your caller.\""
+},
+{
+"id": "4ffc5fc2ed51",
+"text": "What is the Mandalorian's favorite type of music? Beskar-pella."
+},
+{
+"id": "4ffef6016dad",
+"text": "Why doesn't Jabba the Hutt go to the gym? He doesn't like to move."
+},
+{
+"id": "502240048787",
+"text": "What did the speeder bike say to the tree? \"Watch out, here I come!\""
+},
+{
+"id": "50766df28fbf",
+"text": "What do you call a tauntaun who tells jokes? A taunt-fun."
+},
+{
+"id": "50a82d653759",
+"text": "Why did the astromech droid go to the music store? To pick up some new beeps."
+},
+{
+"id": "50b240f9a654",
+"text": "Why did the Jedi Council meet on a Monday? Because the Force works hardest at the start of the week."
+},
+{
+"id": "50baf3bc7e97",
+"text": "What is the best part about Naboo? The water's always fine."
+},
+{
+"id": "50f3424e83f2",
+"text": "Why don't lightsabers ever get lost? They always come with a hilt-in map."
+},
+{
+"id": "518d982ed7f1",
+"text": "Why did the Padawan get a gold star? He was a Force-ward thinker."
+},
+{
+"id": "522105ee2b0d",
+"text": "What do you call a rainy day on Kamino? Every day."
+},
+{
+"id": "52b15d9ea349",
+"text": "What do you call a cookie that turned to the dark side? A Darth Cookie."
+},
+{
+"id": "533ec0e5b1d4",
+"text": "What's a pirate's favorite Star Wars movie? The Empire Strikes Arrr."
+},
+{
+"id": "5549d76cfbf8",
+"text": "What do you call a rancor that tells jokes? A ran-chuckle."
+},
+{
+"id": "558983f0be9b",
+"text": "What does the Mandalorian say when he's lost? \"This is the way. I think.\""
+},
+{
+"id": "55b7197aa734",
+"text": "What did Anakin say to the sandcastle? \"I don't like you.\""
+},
+{
+"id": "56089577e2c9",
+"text": "Why don't Kaminoans go to the beach? Their whole planet is the beach."
+},
+{
+"id": "560d831369db",
+"text": "What did Jabba say at the restaurant? \"Bring me the slug sauce.\""
+},
+{
+"id": "56da3a43c78e",
+"text": "Why did Boba Fett get a new jetpack? The old one was getting a little Fett-igued."
+},
+{
+"id": "57addc1d733e",
+"text": "What did the Star Wars fan get on his math test? An A for Anakin."
+},
+{
+"id": "5833be3cb4f9",
+"text": "What did Han say to the slow cashier? \"Hurry up, I've made the Kessel Run in less time.\""
+},
+{
+"id": "58c9949cd4dd",
+"text": "What did the AT-AT say to the snowspeeder? \"Hey, quit tying my shoelaces.\""
+},
+{
+"id": "58f6f7e7dcbe",
+"text": "What did Leia say to the slow delivery droid? \"You're my only hope, so hurry.\""
+},
+{
+"id": "590ed4a24c99",
+"text": "What do you call a sleepy Sith? Darth Napper."
+},
+{
+"id": "59a6aead9266",
+"text": "Why does Snoke always sit down? He prefers a throne-sitting job."
+},
+{
+"id": "5a9cfb680fef",
+"text": "What do you call a womp rat that tells jokes? A womp chuckle."
+},
+{
+"id": "5abe66a56276",
+"text": "What is a Padawan's favorite subject? Force-ign languages."
+},
+{
+"id": "5b34c69d4d5a",
+"text": "Why do Sith have red lightsabers? Because the blue ones were sold out."
+},
+{
+"id": "5b650ebbe951",
+"text": "Why did R2-D2 go to the doctor? He had a bad case of the beeps."
+},
+{
+"id": "5b6fa217e70d",
+"text": "What do you get when you cross a Wookiee with a cookie? A Wookiee cookie."
+},
+{
+"id": "5c50175e6ad0",
+"text": "What do you call a Jedi who never stops talking? Obi-Wan Kenobi-blabber."
+},
+{
+"id": "5c5f921f975a",
+"text": "How do you know when a Wookiee is happy? He gives you a hug that lasts a few minutes."
+},
+{
+"id": "5c718e70b19d",
+"text": "What does Darth Vader say to his breakfast? \"I find your lack of syrup disturbing.\""
+},
+{
+"id": "5c7d9ea1a3fa",
+"text": "What is BB-8's favorite dessert? A sphere of ice cream."
+},
+{
+"id": "5cb714b55430",
+"text": "What did the Ewok say when he won the race? \"Yub nub!\""
+},
+{
+"id": "5d38c0685f89",
+"text": "What did the Mandalorian say to the Child? \"This is the way. To bed.\""
+},
+{
+"id": "5d4a6e23e1b1",
+"text": "What do you call a Wookiee who reads a lot? A Book-iee."
+},
+{
+"id": "5e8c9e0f20f5",
+"text": "Why did the Rebel go to the dentist? To get a Rebel-ing tooth fixed."
+},
+{
+"id": "5ea0bc7c0ca2",
+"text": "What did Captain Rex say to the new clone? \"Welcome to the team, brother. Now, which brother are you?\""
+},
+{
+"id": "5efd16ef50a6",
+"text": "What does a droid do at the beach? It catches some microwaves."
+},
+{
+"id": "5f11d79a9566",
+"text": "Why did the battle droid go to school? To learn more than two words."
+},
+{
+"id": "5f5d0ccc3873",
+"text": "Why did Darth Vader cross the road? To get to the dark side."
+},
+{
+"id": "60172d3ea510",
+"text": "What is Darth Vader's least favorite chore? Dusting. He hates sand, and dust is sand's little cousin."
+},
+{
+"id": "601c926bf7a4",
+"text": "Why did Darth Maul take up yoga? He wanted to find his balance. Both halves."
+},
+{
+"id": "6161848978bd",
+"text": "What did Yoda say when he lost his keys? \"Find them, I will. Look in the swamp, I must.\""
+},
+{
+"id": "62225a3e7a0f",
+"text": "What's a Sith Lord's favorite subject in school? Hiss-tory."
+},
+{
+"id": "629ebabbe314",
+"text": "Why do Sith Lords always come in twos? Because three would be a crowd, and two is the Rule."
+},
+{
+"id": "6383066b0271",
+"text": "What do Imperial officers eat for lunch? Galactic Empire-ial sandwiches."
+},
+{
+"id": "638b7b142806",
+"text": "What kind of pie does Darth Vader like best? Dark cherry pie."
+},
+{
+"id": "63bd31a96e7a",
+"text": "What's Grogu's favorite sport? Frog-ger."
+},
+{
+"id": "63ff2e0d8de9",
+"text": "How does Yoda make his bed? \"Make it, I will not. Use the Force, I will.\""
+},
+{
+"id": "6406e3db9074",
+"text": "What's the best Star Wars snack? Darth Vader-tos."
+},
+{
+"id": "64c4ee88eed7",
+"text": "What do you call a cat who uses the Force? A Jedi Purr-ster."
+},
+{
+"id": "650ae11b2f3b",
+"text": "What do you call a rebel pilot who tells jokes? Wedge Antil-LOL."
+},
+{
+"id": "65f0edb099ed",
+"text": "What did Yoda say to the mirror? \"Handsome, I am. Green, also.\""
+},
+{
+"id": "668a7767aa24",
+"text": "Why does Yoda love math? \"Count the numbers, I will. Fifty, forty, three.\""
+},
+{
+"id": "66ffe8d711b4",
+"text": "What do you call a stormtrooper who plays tennis? A miss-ter."
+},
+{
+"id": "684cce792005",
+"text": "What did Count Dooku name his pet bird? Count Coo-ku."
+},
+{
+"id": "687d69a81c20",
+"text": "Why does Yoda use a cane? So he can save the lightsaber for special occasions."
+},
+{
+"id": "693444bd2dc4",
+"text": "Why did Darth Vader start a podcast? He loves the sound of his own breathing."
+},
+{
+"id": "694cc1b0f0cf",
+"text": "What do you call a Star Wars movie about horses? Attack of the Ponies."
+},
+{
+"id": "69b90a9612dc",
+"text": "What's a clone's favorite music? Anything with a lot of repeats."
+},
+{
+"id": "69f336b04dbb",
+"text": "What do you call it when Yoda plays golf? Yoda-ing a hole in one."
+},
+{
+"id": "6aa091ec70bc",
+"text": "What does Yoda use to bake cakes? A Yoda-gurt frosting kit."
+},
+{
+"id": "6b091280d04a",
+"text": "What is Princess Leia's favorite sport? Rebel-ball."
+},
+{
+"id": "6b0a5eca6463",
+"text": "What did Obi-Wan say to the broken printer? \"These are not the pages you're looking for.\""
+},
+{
+"id": "6b0b369598c6",
+"text": "How do Jedi pay for things? With Jedi Mind Tips."
+},
+{
+"id": "6c119a81a431",
+"text": "What did Darth Vader say when the Wi-Fi went down? \"I find your lack of bandwidth disturbing.\""
+},
+{
+"id": "6c62eff21f61",
+"text": "What do you call a stormtrooper who's really good at basketball? A rare sight."
+},
+{
+"id": "6cd1d86438de",
+"text": "What did the Jedi say when he finished his homework? \"It is done.\""
+},
+{
+"id": "6d2ff60ee270",
+"text": "What do you call someone who loves Star Wars? A Force-fan."
+},
+{
+"id": "6e0d53f4540d",
+"text": "What do you call a Star Wars movie about sandwiches? Return of the Deli."
+},
+{
+"id": "6e61d6f5df17",
+"text": "What does Ahsoka use to brush her teeth? Two toothbrushes, one in each hand."
+},
+{
+"id": "6ea7d2d7e934",
+"text": "Why is Grogu a great babysitter? He's 50 years old and still loves bedtime stories."
+},
+{
+"id": "6eeaa368b6fe",
+"text": "Why did Darth Vader go to the eye doctor? He wanted to see the light side for once."
+},
+{
+"id": "6f0297e0ac70",
+"text": "What did General Grievous say when he caught a cold? \"Cough, cough. You are a bold one.\""
+},
+{
+"id": "6f7affe23985",
+"text": "How does R2-D2 get on a plane? He just rolls with it."
+},
+{
+"id": "6fc214651e97",
+"text": "What do you call a Wookiee who likes to read? Chewbacca the bookie."
+},
+{
+"id": "704e5eb8a37d",
+"text": "What do you call a Star Wars movie about the beach? A New Shore."
+},
+{
+"id": "70d194da5393",
+"text": "How does Chewbacca brush his fur? With a Wookiee comb."
+},
+{
+"id": "711c83a48441",
+"text": "How many stormtroopers does it take to change a lightbulb? Ten. One to change it, nine to miss the socket."
+},
+{
+"id": "71371381722f",
+"text": "What did the sand say to Anakin? \"Nothing personal, it's just my coarse nature.\""
+},
+{
+"id": "71d0a02b8cea",
+"text": "What does Chewbacca say on his birthday? \"Rrrrrraaaawwwrrrr!\" Translation: \"Thanks for the cake.\""
+},
+{
+"id": "7211f9e3d8b0",
+"text": "What did the Jedi Council say about the new chairs? \"These are the seats you're looking for.\""
+},
+{
+"id": "72195a297643",
+"text": "Why is the Millennium Falcon so fast? It made the Kessel Run in less than twelve parsecs."
+},
+{
+"id": "723def155fc0",
+"text": "How does Yoda get around the swamp? On his Yoda-bike."
+},
+{
+"id": "728fdaaff7ea",
+"text": "Why do Jedi love hamburgers? They can always find the Force in the meat."
+},
+{
+"id": "72cc8f9007d7",
+"text": "What did Leia say when she saw her new haircut? \"Help me, Obi-Wan, you're my only hope.\""
+},
+{
+"id": "72e83b8008ac",
+"text": "Why is Princess Leia so good at sending messages? She has a lot of practice with holograms."
+},
+{
+"id": "73c81716bae3",
+"text": "Why are Jedi good at telling time? They always feel a disturbance in the hour."
+},
+{
+"id": "73eb11982a65",
+"text": "What does K-2SO say when he's happy? Nothing. He just tells you the odds."
+},
+{
+"id": "7506516a2c08",
+"text": "What does Mace Windu use to make lemonade? A purple lightsaber and a lot of lemons."
+},
+{
+"id": "7542bfecab5d",
+"text": "What does Grogu use to tell the time? A Grogu-clock."
+},
+{
+"id": "75944409d0cc",
+"text": "What do you call a droid that cooks? A chef-bot."
+},
+{
+"id": "75d4d66fb89d",
+"text": "What did the Imperial officer say at the restaurant? \"Table for one. And bring me a better admiral.\""
+},
+{
+"id": "76476a094e1c",
+"text": "Where did Luke get his new hand? From the second-hand store."
+},
+{
+"id": "7675ee1faa5a",
+"text": "Why did the tauntaun bring a sweater? It's Hoth, and it gets cold."
+},
+{
+"id": "773474705df5",
+"text": "Why was the Death Star so good at parties? It was the life of the galaxy."
+},
+{
+"id": "778467307bc1",
+"text": "What is General Grievous's favorite exercise? Arm day. Four times."
+},
+{
+"id": "77fffab29945",
+"text": "What do scout troopers do on their day off? They take their speeder bikes to the drive-thru."
+},
+{
+"id": "7825e4c49482",
+"text": "Why did Palpatine become a senator? He wanted to get to the bottom of the bills, one Order at a time."
+},
+{
+"id": "78781a669c05",
+"text": "What's the best way to get to Tatooine? Head toward the twin suns and don't stop until you're sandy."
+},
+{
+"id": "78dc9fc22edd",
+"text": "How do Jedi do homework? With a lot of Force concentration."
+},
+{
+"id": "792271b5c1a3",
+"text": "Why did the clone go to the mirror store? He wanted to see his brothers."
+},
+{
+"id": "79564eb42502",
+"text": "What do you call a Jedi with a cold? Obi-Wan Kenobi-sniffles."
+},
+{
+"id": "79dd44eff2cc",
+"text": "What does Boba Fett do on the weekend? He hunts for bargains."
+},
+{
+"id": "7a7c2caaf868",
+"text": "What do you call a really long Star Wars movie marathon? An epic."
+},
+{
+"id": "7af6ea532eb3",
+"text": "What is Lando's favorite drink? Anything served in a cloud cup."
+},
+{
+"id": "7b6af4b9387c",
+"text": "What is the Rebel Alliance's favorite type of tree? A Rebel-wood."
+},
+{
+"id": "7b9975ff4933",
+"text": "What is Leia's favorite cereal? Cinnamon Buns."
+},
+{
+"id": "7c05dd820b10",
+"text": "What did the Sith say when he saw the sunset? \"Finally, the dark side.\""
+},
+{
+"id": "7c096c264d88",
+"text": "How do you fix the Death Star? With a little bit of Force-tape."
+},
+{
+"id": "7c0b81d0d621",
+"text": "What does Han Solo say when someone thanks him? \"I know.\""
+},
+{
+"id": "7c6af484d71e",
+"text": "How does Han Solo eat his breakfast? Fast. In less than twelve parsecs."
+},
+{
+"id": "7cb47c8321b9",
+"text": "Why did R2-D2 go to the party? He heard there'd be a lot of beeps and bops."
+},
+{
+"id": "7d6ba00194dc",
+"text": "What did Chewie say when he lost his comb? \"Rrrrrraaaaawr.\" Which means \"Has anyone seen my comb?\""
+},
+{
+"id": "7e5bf4f4af1f",
+"text": "What do you call a Jedi in the desert? Obi-Wan Kenobi-hot."
+},
+{
+"id": "7eacb1eef780",
+"text": "Why does Ahsoka hold her lightsabers backwards? She likes to keep people guessing."
+},
+{
+"id": "7ed2fe60ec39",
+"text": "What is a medical droid's favorite game? Operation."
+},
+{
+"id": "7ee0f028e56d",
+"text": "How does Yoda keep his lunch fresh? In a Yoda-gurt cooler."
+},
+{
+"id": "7f58e75d68da",
+"text": "What do you call a rebel who loves basketball? A Rebel Dunk."
+},
+{
+"id": "7f98c648b08d",
+"text": "What do you call a droid that loves to fish? R2-Reel-2."
+},
+{
+"id": "7f9d938932f4",
+"text": "Why did Grogu go to school? To learn the Force and to eat everyone's lunch."
+},
+{
+"id": "7fba2cdf0c78",
+"text": "What's Jabba's favorite ice cream? Rocky Hutt."
+},
+{
+"id": "8044632b3ab4",
+"text": "Why did the Empire build the Death Star? Because they couldn't find a bigger moon."
+},
+{
+"id": "809f9efa0ce4",
+"text": "What do you say to a Jedi who's about to go on a trip? \"May the Force be with you. And your luggage.\""
+},
+{
+"id": "827864a1f020",
+"text": "What is Darth Maul's favorite dance? The double-bladed spin."
+},
+{
+"id": "82dc5b5387be",
+"text": "What do droids eat for breakfast? Bolts and nuts cereal."
+},
+{
+"id": "839b939f539b",
+"text": "What is Chewbacca's favorite food? Anything that's chewy."
+},
+{
+"id": "83d4ff8e49a3",
+"text": "What did Luke say when Yoda lifted his X-wing? \"I don't believe it.\" What did Yoda say? \"That is why you need a tow truck.\""
+},
+{
+"id": "847b1005c10d",
+"text": "What's Anakin's favorite game at the beach? Sandcastle avoidance."
+},
+{
+"id": "8494848a02d8",
+"text": "What does a Jedi drive? A Toy-Yoda."
+},
+{
+"id": "84c0a78bd4a2",
+"text": "What do you call a sheep in Star Wars? A Jedi Baa-ster."
+},
+{
+"id": "856ae987542f",
+"text": "Why did Grogu join the frog choir? He just wanted to eat the backup singers."
+},
+{
+"id": "865e9072e38c",
+"text": "Why did the stormtrooper buy an iPhone? He couldn't find the Android he was looking for."
+},
+{
+"id": "86ab682c5d83",
+"text": "What does the Mandalorian say when he finds a good parking spot? \"This is the way.\""
+},
+{
+"id": "86d4da9fb139",
+"text": "What do you call a Sith who works at a pet store? Darth Hamster."
+},
+{
+"id": "86d997c645d9",
+"text": "What do you call a potato that has turned to the dark side? A Vader tot."
+},
+{
+"id": "87d33df9e48c",
+"text": "What did the stormtrooper say to the droid? \"Move along. Move along.\""
+},
+{
+"id": "88996df6d55d",
+"text": "What did Obi-Wan say at the barbecue? \"Hello there. I'll have the high-ground beef.\""
+},
+{
+"id": "89035396b25d",
+"text": "Why are porgs so good at hide and seek? They blend in with the rocks. And the snacks."
+},
+{
+"id": "8a082c84f4a1",
+"text": "Why did the stormtrooper join the choir? He was great at hitting the wrong notes."
+},
+{
+"id": "8a3b71ce36f4",
+"text": "What did Yoda say when he lost at video games? \"Do or do not, there is no retry.\""
+},
+{
+"id": "8b02e4a976fd",
+"text": "What do you call Darth Vader with a cold? Darth Sneezer."
+},
+{
+"id": "8b88a980088a",
+"text": "What does a bounty hunter use to catch a bus? A tracking fob."
+},
+{
+"id": "8b977cb5fc6a",
+"text": "How do Jedi mail letters? With a Force Push."
+},
+{
+"id": "8bc131a1279c",
+"text": "What do you call a Star Wars movie about the mail? The Empire Ships Back."
+},
+{
+"id": "8bec9e618a42",
+"text": "What did Grogu say to the macaron? Nothing. He just took it."
+},
+{
+"id": "8c88571f56a1",
+"text": "How does BB-8 stay in shape? He does a lot of rolling exercises."
+},
+{
+"id": "8c8f8ffca509",
+"text": "What does Count Dooku drink in the morning? A Sith-a-ccino."
+},
+{
+"id": "8d812511cea8",
+"text": "What do you call a hut where Jabba lives? A Hutt hut."
+},
+{
+"id": "8d86e7137019",
+"text": "What's Luke's favorite snack? Sky-walker crackers."
+},
+{
+"id": "8def059c6d29",
+"text": "Why does Lando have so many capes? He doesn't want to miss a single breeze."
+},
+{
+"id": "8e7cef286a5f",
+"text": "What do you call a droid that loves the garden? R2-Seed-2."
+},
+{
+"id": "8f2b524a2bb7",
+"text": "What did the Jedi say to the clumsy Padawan? \"Watch your step. The Force can't catch everything.\""
+},
+{
+"id": "8f50850ef18b",
+"text": "What does Obi-Wan say before a big meal? \"Use the forks, Luke.\""
+},
+{
+"id": "90bd0b8ddfdb",
+"text": "Why don't Sith Lords play poker? Someone always senses the bluff."
+},
+{
+"id": "90db6ee67df3",
+"text": "What does a Jedi sleep in? A Jedi Knight-gown."
+},
+{
+"id": "9162b31f4ddf",
+"text": "Why did the Sith apprentice go to school? To get a little more Sith-ucation."
+},
+{
+"id": "91a9e82dc9ac",
+"text": "Why was Han Solo carbonite-frozen? He was trying to stay cool."
+},
+{
+"id": "924f0c0f6a3f",
+"text": "What did Luke say when he couldn't find the TV remote? \"Use the Force, Luke.\""
+},
+{
+"id": "927b893d552e",
+"text": "Why do Ewoks live in trees? The rent is cheaper."
+},
+{
+"id": "93c212009ef3",
+"text": "What do you call a Sith on a bicycle? Darth Rider."
+},
+{
+"id": "949c80c421c5",
+"text": "Why do Jedi make terrible comedians? Every joke is a Force-d laugh."
+},
+{
+"id": "94cc938e561f",
+"text": "What do you call a stormtrooper at the beach? A sand-trooper."
+},
+{
+"id": "951605679e8a",
+"text": "Why did the AT-AT go to the gym? To work on its leg day. All four."
+},
+{
+"id": "95a5d935f05b",
+"text": "Why are lightsabers so popular at birthday parties? They light the candles and cut the cake."
+},
+{
+"id": "95e34152a2f1",
+"text": "What does Yoda wear to stay cool? Yoda-ga pants."
+},
+{
+"id": "9622aeb75dda",
+"text": "What's Coruscant's favorite holiday? City Lights Day."
+},
+{
+"id": "964e6ca90d5f",
+"text": "What do Jedi put in their salads? Force-croutons."
+},
+{
+"id": "96756dc5caf3",
+"text": "What's a Wookiee's favorite cookie? Chewbacca chip."
+},
+{
+"id": "96c10b4dcf2c",
+"text": "What do you call a Jedi in denial? Obi-Wan Kenobi-lieve it."
+},
+{
+"id": "97287a502200",
+"text": "What is Chewbacca's favorite dance? The Wookiee Boogie."
+},
+{
+"id": "976b1455a87d",
+"text": "What do you call a Star Wars movie about golf? The Last Tee-dai."
+},
+{
+"id": "97958abdd97b",
+"text": "What does a stormtrooper say when he finally hits the target? \"Wait, really?\""
+},
+{
+"id": "981a9cb41259",
+"text": "What did Darth Vader say when he dropped his ice cream? \"Nooooooo!\""
+},
+{
+"id": "981ac000dbf5",
+"text": "Why does Anakin hate sand? It's coarse and rough and it gets everywhere. Especially in his shoes."
+},
+{
+"id": "985d72dea4b1",
+"text": "What do you call a Gungan who tells jokes? Jar Jar Grins."
+},
+{
+"id": "9886d94b30a1",
+"text": "What's the weather like on Hoth? Snow joke."
+},
+{
+"id": "99584d5d7599",
+"text": "What did R2-D2 say to the toaster? \"Beep boop.\" The toaster said, \"Same to you.\""
+},
+{
+"id": "996519f99935",
+"text": "What does R2-D2 like on his pizza? Beep-peroni."
+},
+{
+"id": "998581225344",
+"text": "Why did the Millennium Falcon go to the doctor? Its hyperdrive kept breaking down."
+},
+{
+"id": "9a0b493d5dcd",
+"text": "Why do droids make bad comedians? Their timing is too precise."
+},
+{
+"id": "9a33c43a3966",
+"text": "What do you call a Jedi pastry chef? Obi-Wan Cake-nobi."
+},
+{
+"id": "9a9bf8aa0558",
+"text": "What do you call an Imperial officer who loves the beach? A Storm-tanner."
+},
+{
+"id": "9aaa2f0c69f3",
+"text": "Why does Darth Vader love car rides? The Imperial cruise control."
+},
+{
+"id": "9b426669bc64",
+"text": "What do you call a pirate in Star Wars? Hondo. He's always looking for treasure."
+},
+{
+"id": "9c95a27d8900",
+"text": "What did the tauntaun say when he got cold? \"I'm feeling a little un-hoth-y.\""
+},
+{
+"id": "9ceda3bb0f5e",
+"text": "What did the Sarlacc say after lunch? \"That was a Boba-lot.\""
+},
+{
+"id": "9dda3f27702b",
+"text": "What did the Force say to the Jedi? \"I'm with you. Always.\""
+},
+{
+"id": "9df60a65e398",
+"text": "What did Kylo Ren say to his messy room? \"Let the past die. Clean it if you have to.\""
+},
+{
+"id": "9e5f60756a68",
+"text": "What do you call a droid that takes the long way around? R2-Detour."
+},
+{
+"id": "9f6526c46c25",
+"text": "What did the cantina band say after the show? \"Thanks for listening. We'll be here all week. Every week.\""
+},
+{
+"id": "9ffdaba7a951",
+"text": "What does the Force say when it's in a good mood? \"I feel good about this.\""
+},
+{
+"id": "a001dc784601",
+"text": "How does Grogu ask for a snack? He just stares until you give him one."
+},
+{
+"id": "a02636d42af6",
+"text": "Why did the Death Star always win at tug-of-war? It has a really strong tractor beam."
+},
+{
+"id": "a081610ca0b4",
+"text": "What do you call a Star Wars fan who loves the beach? A sand person."
+},
+{
+"id": "a0839e1538a7",
+"text": "What does Emperor Palpatine eat for dessert? Unlimited powder sugar."
+},
+{
+"id": "a332e762c6e0",
+"text": "Why does Grogu always get the cookies? He has the Force, and nobody can say no to that face."
+},
+{
+"id": "a42ac9f25abb",
+"text": "Why do droids never get tired? They're always fully charged."
+},
+{
+"id": "a5b76a9d4250",
+"text": "Why did the Rebels go to the gym? To build up their Alliance."
+},
+{
+"id": "a5c10bd4f0a5",
+"text": "What is Yoda's favorite dessert? Yoda-dle-doo cake."
+},
+{
+"id": "a6659490fe23",
+"text": "What is a Jedi's favorite dance move? The Jedi Shuffle."
+},
+{
+"id": "a71c136f0b43",
+"text": "How did the droid feel after the battle? A little rusty."
+},
+{
+"id": "a7842aa275a0",
+"text": "Why does Jar Jar make a great lifeguard? He's always ready to go \"yousa in the water.\""
+},
+{
+"id": "a7ee442a136d",
+"text": "What's a stormtrooper's favorite drink? Clone-ade."
+},
+{
+"id": "a8218ea5b9d1",
+"text": "Why did the Jawa start a recycling business? He knew how to turn junk into treasure."
+},
+{
+"id": "a855519d9be4",
+"text": "What is a droid's favorite music? Heavy metal."
+},
+{
+"id": "a909e4666359",
+"text": "What did the Millennium Falcon say to the X-wing? \"You're fast, but I've got the parsecs.\""
+},
+{
+"id": "aa68a953842d",
+"text": "Why are snowtroopers so cool? They're always chill."
+},
+{
+"id": "aae354b9d5db",
+"text": "What's a Jedi's favorite song? \"May the Fourth Be With You.\""
+},
+{
+"id": "ab44d69a72fe",
+"text": "What did the Star Destroyer say to the little ship? \"You're looking a bit small.\""
+},
+{
+"id": "abd33ac7192e",
+"text": "What do you call a Star Wars movie about cooking? The Empire Bakes Back."
+},
+{
+"id": "ac0129323d91",
+"text": "What did Yoda say when he saw himself on a 4K TV? \"HDMI.\""
+},
+{
+"id": "ac0b5d1dd482",
+"text": "How does Yoda fix his cold? \"Cough drops, I need. Hmm.\""
+},
+{
+"id": "ac1d8d2775df",
+"text": "What is a battle droid's favorite word? \"Roger, roger.\""
+},
+{
+"id": "ac206079c6c0",
+"text": "What does BB-8 do at a party? He rolls into the room and steals the show."
+},
+{
+"id": "ac9cd6a487c0",
+"text": "What do you call a Jedi who's really good at board games? A Master of the Game."
+},
+{
+"id": "ac9f82d0b9ed",
+"text": "What do you call a porg who sings? A porg-ra star."
+},
+{
+"id": "adfdddf741f6",
+"text": "How did Han Solo do on his math test? \"Never tell me the odds.\""
+},
+{
+"id": "ae34590e3b0e",
+"text": "What is Grogu's favorite exercise? Force lifting. Mostly cookies."
+},
+{
+"id": "aed7180a73af",
+"text": "What do you call a Sith who won't fight? A Sith-ting duck."
+},
+{
+"id": "af0cbce73809",
+"text": "What did the exogorth say to the Millennium Falcon? \"Thanks for dropping in.\""
+},
+{
+"id": "af4e1bd34075",
+"text": "What do you call a Jedi who's always late? Obi-Wan Kenobi-tardy."
+},
+{
+"id": "af615db48c0e",
+"text": "Why did the pod racer get a ticket? He was going too fast in a slow zone."
+},
+{
+"id": "afabc5b61ae8",
+"text": "Why do stormtroopers wear white armor? So they match the snow on Hoth."
+},
+{
+"id": "afc48ed7f4fc",
+"text": "What did Obi-Wan say at the hill climbing contest? \"It's over, I have the high ground.\""
+},
+{
+"id": "b0321467f2e5",
+"text": "Why does Yoda say \"When 900 years old you reach, look as good you will not\"? Because he's honest about his wrinkles."
+},
+{
+"id": "b0432136fa1a",
+"text": "Why did Lando move to Cloud City? He wanted to get his head in the clouds."
+},
+{
+"id": "b07e41c6ce8c",
+"text": "What's Jar Jar Binks's favorite fruit? Jar-Jar-nanas."
+},
+{
+"id": "b0b5dc546d58",
+"text": "Why was Obi-Wan a great real estate agent? He always knew the high ground."
+},
+{
+"id": "b0e6c440427e",
+"text": "Why are Jedi so good at baseball? They always use the Force to find the strike zone."
+},
+{
+"id": "b1fc1fa4b591",
+"text": "What did Boba Fett say to the bounty? \"Gotcha. Wait, no. Hold still.\""
+},
+{
+"id": "b276f2dcfc63",
+"text": "What does Yoda order at the coffee shop? \"A tall, I want not. Small, I am.\""
+},
+{
+"id": "b2b8a646e058",
+"text": "Why are battle droids bad at hide and seek? They always say \"Roger, roger\" when they're found."
+},
+{
+"id": "b2f13c44374f",
+"text": "How does Darth Vader keep his helmet shiny? Elbow grease and a lot of Empire Spray."
+},
+{
+"id": "b4453a30a22f",
+"text": "How do Jedi stay warm in the winter? Jedi Knight-gowns."
+},
+{
+"id": "b4adece05837",
+"text": "What do you call Palpatine when he works at a bank? Darth Cashious."
+},
+{
+"id": "b524d8d484ea",
+"text": "What's a TIE fighter's favorite sport? TIE-kwon-do."
+},
+{
+"id": "b56e59e23d25",
+"text": "Why did the Y-wing feel left out? Everyone always asks Y."
+},
+{
+"id": "b56eeb4e246a",
+"text": "Why did Luke Skywalker get a job at a bakery? He loved the light-side flour."
+},
+{
+"id": "b596e400e020",
+"text": "What do you call a Star Wars movie about chickens? Revenge of the Chick."
+},
+{
+"id": "b60ccea70e28",
+"text": "How do Jedi stay in touch? Force-time video calls."
+},
+{
+"id": "b68c9617eb95",
+"text": "What do you call a boat full of Ewoks? A furry."
+},
+{
+"id": "b7a7e2d35bba",
+"text": "What does Palpatine say at the end of a magic show? \"Unlimited powerrrr... and a rabbit.\""
+},
+{
+"id": "b7f7f5a51590",
+"text": "Why did the Rebel Alliance bring cookies to the meeting? They heard there would be Empire-ial snacks."
+},
+{
+"id": "b89e7953ff90",
+"text": "Why do Tusken Raiders travel single file? To hide their numbers."
+},
+{
+"id": "b8fc01eb4063",
+"text": "What kind of bread does the Empire like? Imperial rye."
+},
+{
+"id": "b927b08fd0b5",
+"text": "What did Yoda say to the pizza delivery driver? \"Late, you are. Forgive you, I will.\""
+},
+{
+"id": "b957322f38e1",
+"text": "What does Yoda say to his fans? \"Your number one fan, I am. Wait, wrong order.\""
+},
+{
+"id": "b977b90aef83",
+"text": "Why did the TIE fighter need a nap? It was TIE-red."
+},
+{
+"id": "b9c77540ea0b",
+"text": "What does Yoda eat at the movies? Pop-yoda-corn."
+},
+{
+"id": "ba04ff8627d0",
+"text": "What did the Jawa say at the store? \"Utinni! Do you have a discount on droids?\""
+},
+{
+"id": "ba20c75920e4",
+"text": "What does a droid do when it gets a virus? It takes a byte of medicine."
+},
+{
+"id": "bacd162d6d87",
+"text": "What do you call a Sith who loves pastries? Darth Danish."
+},
+{
+"id": "bb37b49e4860",
+"text": "Why did Kylo Ren join the debate team? He really knows how to let the past die."
+},
+{
+"id": "bb8341b6f681",
+"text": "How does the Empire keep its floors clean? With Imperial mops."
+},
+{
+"id": "bb90cccc644b",
+"text": "Why did R2-D2 get a ticket? He was beeping in a no-beep zone."
+},
+{
+"id": "bbc4eb19a9e5",
+"text": "What do you call a dog who uses the Force? A Jedi Bark-ster."
+},
+{
+"id": "bc9431a34c3f",
+"text": "Why does Darth Vader never get lost? He always follows the dark side of the map."
+},
+{
+"id": "bd2eb40fbbed",
+"text": "What do you call a Sith who won't stop texting? Darth Typist."
+},
+{
+"id": "bd3fca6031c4",
+"text": "What do you call a Jedi who keeps falling asleep in meetings? Yawn Solo."
+},
+{
+"id": "bdc1567ec069",
+"text": "Why does Princess Leia keep her hair in buns? So she always has a snack for later."
+},
+{
+"id": "be152df30741",
+"text": "What do you call a Jedi who loves to sing? A Force-tenor."
+},
+{
+"id": "c02f9663670a",
+"text": "What do Padawans eat for lunch? Peanut butter and Jedi sandwiches."
+},
+{
+"id": "c03fb8db3c2e",
+"text": "What do you call a Jedi pizza? A pizza force."
+},
+{
+"id": "c1851cc9e30f",
+"text": "Why don't Jedi like gossip? They've heard enough about the Sith already."
+},
+{
+"id": "c1b929696873",
+"text": "What do you call a Jedi who works at a coffee shop? A Jedi Bar-ista."
+},
+{
+"id": "c2188d4945d2",
+"text": "What do you call Darth Vader when he's cooking? Darth Baker."
+},
+{
+"id": "c2285b61ef3e",
+"text": "Why did Darth Vader get a library card? To check out the dark side of the shelves."
+},
+{
+"id": "c28537aa6e0a",
+"text": "Why did Anakin become a pilot? He wanted to be the best pod racer in the galaxy."
+},
+{
+"id": "c34c8f7a8f49",
+"text": "What did the clone say when he broke the mirror? \"Oops, that's seven years of bad luck. For all of us.\""
+},
+{
+"id": "c36e5d905951",
+"text": "What did Admiral Ackbar say when he saw the pizza box was empty? \"It's a trap!\""
+},
+{
+"id": "c400d6125902",
+"text": "What did the Padawan say to the teacher? \"I've got a good feeling about this test.\""
+},
+{
+"id": "c4eb5d48c50a",
+"text": "What is a Jedi's favorite toy? A Yo-Yoda."
+},
+{
+"id": "c541cf048458",
+"text": "Why did the Ewok climb the tree? To get to the Endor of the branch."
+},
+{
+"id": "c67a531c2bed",
+"text": "What did the Star Wars fan say at the end of the movie? \"May the Force be with you. And with the sequel.\""
+},
+{
+"id": "c748653c7173",
+"text": "What does a Jedi say before eating? \"May the forks be with you.\""
+},
+{
+"id": "c75d719f88da",
+"text": "What did one lightsaber say to the other? \"Let's keep in touch. Not too close, though.\""
+},
+{
+"id": "c7f0b9c53ece",
+"text": "What do you call a Star Wars movie about pancakes? The Rise of Sky-batter."
+},
+{
+"id": "c8b6b4b0b4fa",
+"text": "What's an X-wing's favorite letter? X marks the spot."
+},
+{
+"id": "c8d501f1d915",
+"text": "What did Han Solo say when he lost his keys? \"I've got a bad feeling about this.\""
+},
+{
+"id": "c8ed67d68f1e",
+"text": "What do you call a Jedi with no lightsaber? Unarmed and still dangerous."
+},
+{
+"id": "c9587c932ea6",
+"text": "Why does Luke wear a robe? Because he can't find his Jedi pajamas."
+},
+{
+"id": "ca921bc2a6e2",
+"text": "Why is Boba Fett such a good hunter? He always gets his man. Eventually."
+},
+{
+"id": "cac6aeb735fd",
+"text": "Why did the TIE fighter go to school? To get a little more TIE-ucation."
+},
+{
+"id": "cb73301d3d56",
+"text": "Why does Chewbacca hate playing board games? He always flips the table when he loses to a droid."
+},
+{
+"id": "cc36940a281e",
+"text": "Why are clone troopers good at teamwork? They always see eye to eye."
+},
+{
+"id": "cc72cd71b153",
+"text": "What is Yoda's favorite exercise? Yoda-ga."
+},
+{
+"id": "ccd0bca4602e",
+"text": "How did Darth Vader know what Luke was getting for his birthday? He felt his presents."
+},
+{
+"id": "cd14fa926788",
+"text": "What do you call a Jedi who loves to bake? A Jedi Knead-er."
+},
+{
+"id": "cd73df484a7a",
+"text": "What do you call a bantha who loves to sing? A bantha-ra."
+},
+{
+"id": "cd9113d92c8b",
+"text": "Why did the stormtrooper get kicked out of the paintball game? He kept painting the trees."
+},
+{
+"id": "ce5a3a21ec8d",
+"text": "What did the Death Star say to the moon? \"You're looking a little small today.\""
+},
+{
+"id": "cef20b09178a",
+"text": "Why does Chewbacca never get cold? He's wearing his fur coat all year."
+},
+{
+"id": "cfc4878ff4ae",
+"text": "What does a dewback do on vacation? It soaks up the double sun."
+},
+{
+"id": "d046287bf9f8",
+"text": "What does Rey call her favorite scavenger hunt? A Jakku-zzi of junk."
+},
+{
+"id": "d04c543abcf5",
+"text": "What is the Millennium Falcon's favorite food? Space junk food."
+},
+{
+"id": "d1b02d41f7eb",
+"text": "Why did Yoda go to the dentist? He needed a Yoda-filling."
+},
+{
+"id": "d1b3433c4d07",
+"text": "What do Jedi carry in their backpacks? Lightsaber batteries and a lot of snacks."
+},
+{
+"id": "d220fde895a0",
+"text": "What do you call a pig who uses the Force? A Ham Solo."
+},
+{
+"id": "d2596ef33e4a",
+"text": "Why are stormtroopers bad at darts? They never hit the board."
+},
+{
+"id": "d31fccb88e21",
+"text": "What did the mouse droid say to the stormtrooper? \"Squeak!\" Then it ran away."
+},
+{
+"id": "d35cf89ccf75",
+"text": "What day is it after May the Fourth? Revenge of the Fifth."
+},
+{
+"id": "d4495efa3b3f",
+"text": "What do you call a bird in Star Wars? Darth Tweeter."
+},
+{
+"id": "d52e878c8a99",
+"text": "Why did the clone go to Kamino? He wanted to see where he was cloned."
+},
+{
+"id": "d5371ddcdf19",
+"text": "What's a lightsaber's favorite kind of music? Saber rattle and roll."
+},
+{
+"id": "d5624be2cbeb",
+"text": "What is a Jedi's favorite drink? Force-aid."
+},
+{
+"id": "d5807c82e1dc",
+"text": "Why did the Jedi read so many books? He wanted to grow his Force of knowledge."
+},
+{
+"id": "d6912f59b0a0",
+"text": "What do you call a Wookiee who loves cookies? Chewbacca-chip."
+},
+{
+"id": "d6cdd1b9ce00",
+"text": "What does Luke Skywalker say on Monday mornings? \"I have a bad feeling about this week.\""
+},
+{
+"id": "d757c031d4ce",
+"text": "Why is Obi-Wan always calm? He has the high ground."
+},
+{
+"id": "d759fe4ce329",
+"text": "What does a Jedi do when his lightsaber breaks? He calls a saber-tooth repairman."
+},
+{
+"id": "d77884139812",
+"text": "What do you call a sheep who uses the Force? Obi-Ewe Kenobi."
+},
+{
+"id": "d7b245904517",
+"text": "What does a Jedi say when he answers the phone? \"Jedi speaking, how may I Force you?\""
+},
+{
+"id": "d85daf447943",
+"text": "What's a lightsaber's favorite meal? Anything flame-grilled."
+},
+{
+"id": "d8bc1fb8c45b",
+"text": "What do you call a Star Wars movie about dentists? Return of the Gleam."
+},
+{
+"id": "d8c768a9d165",
+"text": "Why did the Rebel bring a ladder to the battle? He heard the Empire was on the rise."
+},
+{
+"id": "d9c0519c3fb0",
+"text": "What did Darth Vader say to the vending machine? \"You don't know the power of the snack side.\""
+},
+{
+"id": "dcc0d83969af",
+"text": "How do battle droids answer the phone? \"Roger, roger.\""
+},
+{
+"id": "dd85b4caea6f",
+"text": "Why does Darth Vader always win at checkers? He has the high ground on every square."
+},
+{
+"id": "dd9fba39894e",
+"text": "What's a Sith Lord's favorite pasta? Darth Pastrami."
+},
+{
+"id": "dda5dd86676f",
+"text": "What do you call a teacher who teaches the Force? A Jedi Master."
+},
+{
+"id": "ddc67792275b",
+"text": "Why did the Ewok get a job at the zoo? He was good with animals."
+},
+{
+"id": "dde6b8934382",
+"text": "What did Qui-Gon say when he lost the pod race bet? \"There's always a bigger fish. And a bigger bet.\""
+},
+{
+"id": "df737a75518a",
+"text": "What does Darth Vader wear to bed? Pa-Jedi-mas he took from Luke."
+},
+{
+"id": "df9af9fef2ed",
+"text": "Why does Kylo Ren wear a mask? So nobody can see him pout."
+},
+{
+"id": "df9b0099992e",
+"text": "What did Han Solo get on his report card? An S for Smuggling, and an A for Attitude."
+},
+{
+"id": "dffd0ec1bc6c",
+"text": "What did Admiral Ackbar say when he saw the cookie jar? \"It's a snack!\""
+},
+{
+"id": "e02da66dde30",
+"text": "Why did Qui-Gon go fishing? He wanted to find a bigger fish."
+},
+{
+"id": "e078554f9a1e",
+"text": "Why are Sith bad at keeping secrets? Their faces always turn red first."
+},
+{
+"id": "e1b95da8fd51",
+"text": "What do you call a Jedi who loves rocks? Obi-Wan Kenobi-stone."
+},
+{
+"id": "e1dcd654f4a1",
+"text": "What does Yoda keep in his backpack? Swamp snacks and ancient wisdom."
+},
+{
+"id": "e1e1f8fd5428",
+"text": "What did the battle droid say when it lost the race? \"Uh oh.\""
+},
+{
+"id": "e38392e86f7e",
+"text": "What's Palpatine's favorite sandwich? A Sith Club."
+},
+{
+"id": "e38a7c646aba",
+"text": "What does a lightsaber do on its day off? It takes a nice long glow."
+},
+{
+"id": "e3d0c60b5ee3",
+"text": "What kind of music does the Death Star listen to? Space rock."
+},
+{
+"id": "e40a8b315445",
+"text": "What does Darth Vader do when he's hungry? He goes to the Death Star-bucks."
+},
+{
+"id": "e46d0ca19e4d",
+"text": "What do Jawas do on weekends? They go to garage sales."
+},
+{
+"id": "e54f67151cdc",
+"text": "How do the Rebels stay in touch? On Rebel-gram."
+},
+{
+"id": "e619e780fcbb",
+"text": "What did Yoda say when he got the bill at the restaurant? \"Pay, I will not. Split it, we must.\""
+},
+{
+"id": "e6f515cce770",
+"text": "What does R2-D2 use to open doors? A key-boop."
+},
+{
+"id": "e71188af61d9",
+"text": "What is the best day to watch Star Wars? May the Fourth."
+},
+{
+"id": "e7f8a42d5bb8",
+"text": "What did the Jedi say to the vending machine? \"This is not the snack you're looking for.\""
+},
+{
+"id": "e88b616d4177",
+"text": "Why did the band at the cantina only play one song? It's the only one everyone knows."
+},
+{
+"id": "e9a8505c7a3e",
+"text": "What does Leia use to fix her hair? Rebel bun-dy pins."
+},
+{
+"id": "e9d2d9025eba",
+"text": "What did the Jedi say to the slow computer? \"Use the Force, Windows.\""
+},
+{
+"id": "e9d65609c511",
+"text": "What did Yoda say at the end of the race? \"Last, I am. Fun, it was.\""
+},
+{
+"id": "ea0c04688672",
+"text": "What did the Wookiee say at the dance? \"Let's boogie.\""
+},
+{
+"id": "ea10be48581b",
+"text": "What did Admiral Ackbar say at the bakery? \"It's a tart!\""
+},
+{
+"id": "eb168653e86d",
+"text": "What does Boba Fett eat for breakfast? Bounty-ful pancakes."
+},
+{
+"id": "ec227b5099b6",
+"text": "What did Jar Jar say when he tripped? \"Ooh, mooey mooey!\""
+},
+{
+"id": "ed3c21bb3c8c",
+"text": "Why did the Star Wars fan bring a towel to the movie? In case of a shower of blaster fire."
+},
+{
+"id": "edb88958b1b3",
+"text": "What did Mace Windu say to the slow line at the store? \"This party's over.\""
+},
+{
+"id": "ee0238704d3c",
+"text": "Why did Yoda stop playing basketball? \"Short, I am. Jump, I can. Dunk, I could not.\""
+},
+{
+"id": "ee16ddd61e07",
+"text": "How does Darth Maul eat his cereal? With a double-ended spoon."
+},
+{
+"id": "ee75878e651b",
+"text": "Why did the droid go to the library? To check out some new hardware."
+},
+{
+"id": "eea92cfafcf7",
+"text": "What did the Jedi say when he saw the sunrise? \"The light side is strong today.\""
+},
+{
+"id": "f0bcc4df172c",
+"text": "What do you call a Sith who loves to garden? Darth Plant-agueis."
+},
+{
+"id": "f36a42c3b442",
+"text": "Why did the Death Star go to the doctor? It had a hole in its exhaust port."
+},
+{
+"id": "f3cb0766c886",
+"text": "Why did the X-wing pilot get a speeding ticket? He was flying in a no-fly zone."
+},
+{
+"id": "f6198f06b3b2",
+"text": "Why do Jedi make good gardeners? They know how to grow their roots in the Force."
+},
+{
+"id": "f62f09629eea",
+"text": "Why did Finn get a job in a bakery? He knew how to rise up."
+},
+{
+"id": "f697ce1a3b45",
+"text": "What do you call a cow that uses the Force? A Moo-ster Jedi."
+},
+{
+"id": "f78c32463b52",
+"text": "What's an Ewok's favorite cereal? Cheerio-s from Endor."
+},
+{
+"id": "f7e5fa5f7e6f",
+"text": "What did K-2SO say to the birthday cake? \"There's a 97.6% chance I'll be blamed for eating it.\""
+},
+{
+"id": "f80b3da480ff",
+"text": "What do you call an X-wing that loves music? A Wing-ging singer."
+},
+{
+"id": "f818214b63e4",
+"text": "How do Padawans learn to spell? Jedi-ctionary practice."
+},
+{
+"id": "f83a5a1e31b1",
+"text": "What do you call a Star Wars movie about fixing things? Revenge of the Fix."
+},
+{
+"id": "f8d41320071c",
+"text": "What did Han Solo say to the bad weather? \"Never tell me the odds of rain.\""
+},
+{
+"id": "f9204de0481a",
+"text": "How many languages does C-3PO speak? Over six million. And he complains in all of them."
+},
+{
+"id": "f9b487c8a28b",
+"text": "What did Darth Vader say to the bakery? \"I find your lack of pie disturbing.\""
+},
+{
+"id": "f9e7cd86cbe7",
+"text": "How do Rebels keep their bases clean? They use Rebel brooms."
+},
+{
+"id": "fa3bc66e7535",
+"text": "Why does Han Solo like gum? It's Chewie."
+},
+{
+"id": "fa41bdd97309",
+"text": "What's a porg's favorite game? Porg-ball."
+},
+{
+"id": "fa91a1113d78",
+"text": "What is Jabba the Hutt's favorite snack? Hutt dogs."
+},
+{
+"id": "fade4406deb2",
+"text": "What do you call a Star Wars pancake? A Force flip."
+},
+{
+"id": "fb85b89b2cc5",
+"text": "What did Poe say to BB-8 on a road trip? \"Are we there yet, buddy?\""
+},
+{
+"id": "fbb7f4b23bd5",
+"text": "Where does Yoda keep his soup? In the Dagobowl."
+},
+{
+"id": "fc1bdd43a89b",
+"text": "What do Jedi call a pop quiz? A disturbance in the Force."
+},
+{
+"id": "fc3e382cd22b",
+"text": "What do you call a Star Wars movie about vegetables? Attack of the Peas."
+},
+{
+"id": "fd24cf430ab4",
+"text": "Why does Jabba the Hutt love pizza? It's always hot and Hutt-y."
+},
+{
+"id": "fdb583af8733",
+"text": "Why did Darth Maul start a lawn business? He's really good at edging."
+},
+{
+"id": "fe0bec50eb63",
+"text": "Why do clone troopers have numbers? Because they all have the same name."
+},
+{
+"id": "fe3299e35af2",
+"text": "What day comes after Revenge of the Fifth? Return of the Sixth."
+},
+{
+"id": "fe71cc274d86",
+"text": "Why is IG-11 a good babysitter? He's programmed to protect, and he makes excellent soup."
+},
+{
+"id": "ff5ff53cd131",
+"text": "What is Darth Vader's favorite band? The Imperial March-ing band."
+}
+]
+}
