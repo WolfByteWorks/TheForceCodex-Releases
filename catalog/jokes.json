@@ -1,8 +1,6 @@
 {
 "version": "202611142035",
-"targets": [
-"f4bdd78661883763"
-],
+"targets": [],
 "dad": [
 {
 "id": "0006b2e4ed88",
@@ -2842,5 +2840,6 @@
 "id": "f63581f0ba07",
 "text": "What did Han Solo say to the bakery? I've got a bad feeling about this donut."
 }
-]
+],
+"tokens": []
 }
