@@ -6,6 +6,15 @@
     <description>The Force Codex for Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 01.08.00 (23)</title>
+      <pubDate>Mon, 16 Nov 2026 21:26:02 GMT</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>01.08.00</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New: Star Wars Jokes in Settings (off until you turn it on): 3 or 4 family-friendly Star Wars jokes a week.</li></ul>]]></description>
+      <enclosure url="https://github.com/WolfByteWorks/TheForceCodex-Releases/releases/download/v01.08.00-23/TheForceCodex_v01.08.00-23.zip" length="23150467" type="application/octet-stream" sparkle:edSignature="HQnwUMc2r8qxGTIAztzrd9kf0QRUzX54CV9BnovKHgrhGXu+9WNXff6TIM0I1f7zkyz2WxtJwmBhrHvMWkXdCg=="/>
+    </item>
+    <item>
       <title>Version 01.07.00 (22)</title>
       <pubDate>Mon, 16 Nov 2026 19:00:37 GMT</pubDate>
       <sparkle:version>22</sparkle:version>
