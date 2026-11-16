@@ -6,6 +6,15 @@
     <description>The Force Codex for Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 01.09.00 (24)</title>
+      <pubDate>Mon, 16 Nov 2026 22:58:18 GMT</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>01.09.00</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Squad names: the New squad example is now Holocron Keepers, and squad owners can rename their squad. The About card chip no longer covers the title on iPhone.</li></ul>]]></description>
+      <enclosure url="https://github.com/WolfByteWorks/TheForceCodex-Releases/releases/download/v01.09.00-24/TheForceCodex_v01.09.00-24.zip" length="23157537" type="application/octet-stream" sparkle:edSignature="XLNTmXRzLSOdVTgyRffZYK/wFvwSgzEYKVWokalEkT+zJTDERd2If/0N/5p33rF5bwC2IjrR+YhJu5sxGRJ4Ag=="/>
+    </item>
+    <item>
       <title>Version 01.08.00 (23)</title>
       <pubDate>Mon, 16 Nov 2026 21:26:02 GMT</pubDate>
       <sparkle:version>23</sparkle:version>
