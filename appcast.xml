@@ -6,6 +6,15 @@
     <description>The Force Codex for Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 01.10.00 (26)</title>
+      <pubDate>Wed, 18 Nov 2026 17:28:23 GMT</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>01.10.00</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>On iPhone, swipe left or right on a book or comic page to move to the next or previous one in your list. No change on the Mac.</li></ul>]]></description>
+      <enclosure url="https://github.com/WolfByteWorks/TheForceCodex-Releases/releases/download/v01.10.00-26/TheForceCodex_v01.10.00-26.zip" length="23158911" type="application/octet-stream" sparkle:edSignature="vgPxhqBHTWsupZtGr0oJ66M39QYCTJftjWFue3ZHmtvPgPrSScKQ9adjTeNafjcWTmCtbiXR2VuxcSXvENYMBg=="/>
+    </item>
+    <item>
       <title>Version 01.09.02 (25)</title>
       <pubDate>Tue, 17 Nov 2026 00:09:54 GMT</pubDate>
       <sparkle:version>25</sparkle:version>
