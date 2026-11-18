@@ -6,6 +6,15 @@
     <description>The Force Codex for Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 01.10.02 (27)</title>
+      <pubDate>Wed, 18 Nov 2026 19:00:04 GMT</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>01.10.02</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>iPhone: swiping between books now shrinks and fades the page you leave while the next one slides in, with a soft smoosh sound. No change on the Mac.</li></ul>]]></description>
+      <enclosure url="https://github.com/WolfByteWorks/TheForceCodex-Releases/releases/download/v01.10.02-27/TheForceCodex_v01.10.02-27.zip" length="23186938" type="application/octet-stream" sparkle:edSignature="TlEvBpqQuIMLcJZN9yhqmXzTOdpctvM9ivJahPa4HzNPV3C8sD1RvcDEOp/jb/T6FjfaYiitU0tSRiz7OfyLBA=="/>
+    </item>
+    <item>
       <title>Version 01.10.00 (26)</title>
       <pubDate>Wed, 18 Nov 2026 17:28:23 GMT</pubDate>
       <sparkle:version>26</sparkle:version>
